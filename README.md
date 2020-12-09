@@ -73,7 +73,7 @@ Creates the bcrypt secure environment
 
 Ernest Wesson :zap:
 
-LinkedIN: https://www.linkedin.com/in/ernest-wesson-b4183b5a/
+[LinkedIN]("https://www.linkedin.com/in/ernest-wesson-b4183b5a/")
 
 
 
